@@ -15,8 +15,8 @@ Develop a web application which can take in users vaccination location preferenc
     - Again a drop down menu [District list can be fetched using the api - /v2/admin/location/districts/{state_id}]
     - Since we are doing it for our friends and family usage, we can hard the state (as Kerala) and district list as well 
   - User is asked for his age/age group
-  - User is asked whether he wants it for first dosage or second dosage
-  - User is provided with the current availability status if any and message that he will be notified if vaccine becomes available for next 7 days
+  - User is asked whether he wants the vaccination for first dosage or second dosage
+  - User is provided with the current availability status if any and a message that he will be notified if vaccine becomes available for next 7 days
     - Center
     - Vaccine name
     - Cost
